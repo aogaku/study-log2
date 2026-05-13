@@ -1,0 +1,172 @@
+[
+  {
+    "name": "subject:math",
+    "description": "数学",
+    "color": "1f77b4"
+  },
+  {
+    "name": "subject:english",
+    "description": "英語",
+    "color": "1f77b4"
+  },
+  {
+    "name": "subject:japanese",
+    "description": "国語",
+    "color": "1f77b4"
+  },
+  {
+    "name": "subject:science",
+    "description": "理科",
+    "color": "1f77b4"
+  },
+  {
+    "name": "subject:social",
+    "description": "社会",
+    "color": "1f77b4"
+  },
+  {
+    "name": "subject:programming",
+    "description": "プログラミング",
+    "color": "1f77b4"
+  },
+  {
+    "name": "type:concept",
+    "description": "概念理解",
+    "color": "5319e7"
+  },
+  {
+    "name": "type:practice",
+    "description": "演習",
+    "color": "5319e7"
+  },
+  {
+    "name": "type:mistake",
+    "description": "間違いレビュー",
+    "color": "d73a4a"
+  },
+  {
+    "name": "type:review",
+    "description": "復習",
+    "color": "5319e7"
+  },
+  {
+    "name": "type:test-prep",
+    "description": "テスト準備",
+    "color": "5319e7"
+  },
+  {
+    "name": "type:writing",
+    "description": "記述、作文、小論文",
+    "color": "5319e7"
+  },
+  {
+    "name": "type:question",
+    "description": "問題提起",
+    "color": "5319e7"
+  },
+  {
+    "name": "status:ready",
+    "description": "着手可能",
+    "color": "0e8a16"
+  },
+  {
+    "name": "status:blocked",
+    "description": "何がわからないか整理が必要",
+    "color": "b60205"
+  },
+  {
+    "name": "status:reviewing",
+    "description": "添削、振り返り中",
+    "color": "fbca04"
+  },
+  {
+    "name": "status:done",
+    "description": "完了済み",
+    "color": "cfd3d7"
+  },
+  {
+    "name": "portfolio:show",
+    "description": "学習ポートフォリオに掲載する",
+    "color": "0b6b75"
+  },
+  {
+    "name": "portfolio:hide",
+    "description": "学習ポートフォリオには掲載しない",
+    "color": "6e7781"
+  },
+  {
+    "name": "needs:hint",
+    "description": "ヒントが必要",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "needs:explanation",
+    "description": "解説が必要",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "needs:practice",
+    "description": "類題が必要",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "needs:review",
+    "description": "添削が必要",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "needs:memorization",
+    "description": "暗記、定着が必要",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "needs:teacher-check",
+    "description": "人間の先生や保護者の確認が必要",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "difficulty:easy",
+    "description": "基礎",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "difficulty:medium",
+    "description": "標準",
+    "color": "fef2c0"
+  },
+  {
+    "name": "difficulty:hard",
+    "description": "応用",
+    "color": "f9d0c4"
+  },
+  {
+    "name": "risk:answer-spoiler",
+    "description": "すぐに答えを見ると学習効果が下がる",
+    "color": "e99695"
+  },
+  {
+    "name": "risk:exam",
+    "description": "テスト、受験、成績に関係する重要テーマ",
+    "color": "e99695"
+  },
+  {
+    "name": "risk:needs-human-teacher",
+    "description": "AIだけで判断しない方がよい内容",
+    "color": "e99695"
+  },
+  {
+    "name": "close:on-understood",
+    "description": "自分の言葉で説明できたらClose",
+    "color": "c5def5"
+  },
+  {
+    "name": "close:on-reviewed",
+    "description": "添削と振り返りが済んだらClose",
+    "color": "c5def5"
+  },
+  {
+    "name": "close:on-practice",
+    "description": "類題で確認できたらClose",
+    "color": "c5def5"
+  }
+]
